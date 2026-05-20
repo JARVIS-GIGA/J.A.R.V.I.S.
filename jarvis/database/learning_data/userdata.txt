@@ -1,0 +1,17 @@
+# Personal user data — auto-loaded into JARVIS's knowledge base on startup.
+# Add any facts about yourself here so JARVIS remembers them across sessions.
+#
+# Examples:
+#   Name: Tony Stark
+#   Location: Malibu, California
+#   Occupation: Engineer, CEO of Stark Industries
+#   Interests: Robotics, aerospace, clean energy
+#   Preferences: Prefers concise technical answers, dark roast coffee
+#
+# --- Edit below this line ---
+
+Name: VEDANT PARMAR
+Location: BOKARO
+Occupation: STUDENT
+Interests: Business , technology , science , web development , ethical hacking , content creation , trading, cryptocurrencies
+Preferences: Prefers concise technical and to the point answer with ocassional sarcasam and humor
